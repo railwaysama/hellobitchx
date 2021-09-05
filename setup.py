@@ -12,8 +12,8 @@ setup(
 
     version="1.0.1",
 
-
-    packages=find_packages(),
+    package_dir={'': 'hello'},
+    packages=find_packages(where="hello"),
 
     # The description that will be shown on PyPI.
     # Keep it short and concise
