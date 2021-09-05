@@ -28,7 +28,7 @@ setup(
 
     long_description_content_type="text/markdown",
 
-    url="https://github.com/railwaysama/helloworld",
+    url="https://github.com/railwaysama/hellobitchx",
     # These fields are OPTIONAL
     author_name="railwaysama",
     author_email="elonmusk@btc.com",
