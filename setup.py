@@ -7,7 +7,7 @@ README_MD = open(join(dirname(abspath(__file__)), "README.md")).read()
 
 setup(
 
-    name="myfirstpackageXD",
+    name="dontinstallthislmaoX",
 
 
     version="1.0.1",
