@@ -7,13 +7,13 @@ README_MD = open(join(dirname(abspath(__file__)), "README.md")).read()
 
 setup(
 
-    name="helloworld-railwaysama",
+    name="myfirstpackageXD",
 
 
     version="1.0.1",
 
-    package_dir={'': 'hello'},
-    packages=find_packages(where="hello"),
+
+    packages=find_packages(),
 
     # The description that will be shown on PyPI.
     # Keep it short and concise
